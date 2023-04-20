@@ -1,4 +1,4 @@
-# Unsupervised Machine Learning
+# Unsupervised Machine Learning: Creating Playlists
 
 ## 1. Project Objectives & Overview
 
